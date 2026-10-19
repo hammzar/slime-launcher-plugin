@@ -1,0 +1,4 @@
+name: SlimeLauncher
+version: '${project.version}'
+main: me.hamza.plugin.SlimeLauncher
+authors: [ Hamza ]

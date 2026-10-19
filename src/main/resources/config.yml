@@ -1,0 +1,8 @@
+slime-launcher:
+  horizontal-multiplier: 3.0
+  vertical-boost: 1.5
+  sound:
+    enabled: true
+    name: "FIREWORK_LAUNCH"
+    volume: 1.0
+    pitch: 1.0
